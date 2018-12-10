@@ -1,0 +1,10 @@
+C:\Users\zoete\source\repos\SampleInterface\SampleInterface\bin\Debug\SampleInterface.exe.config
+C:\Users\zoete\source\repos\SampleInterface\SampleInterface\bin\Debug\SampleInterface.exe
+C:\Users\zoete\source\repos\SampleInterface\SampleInterface\bin\Debug\SampleInterface.pdb
+C:\Users\zoete\source\repos\SampleInterface\SampleInterface\obj\Debug\SampleInterface.csprojAssemblyReference.cache
+C:\Users\zoete\source\repos\SampleInterface\SampleInterface\obj\Debug\SampleInterface.FormMain.resources
+C:\Users\zoete\source\repos\SampleInterface\SampleInterface\obj\Debug\SampleInterface.Properties.Resources.resources
+C:\Users\zoete\source\repos\SampleInterface\SampleInterface\obj\Debug\SampleInterface.csproj.GenerateResource.cache
+C:\Users\zoete\source\repos\SampleInterface\SampleInterface\obj\Debug\SampleInterface.csproj.CoreCompileInputs.cache
+C:\Users\zoete\source\repos\SampleInterface\SampleInterface\obj\Debug\SampleInterface.exe
+C:\Users\zoete\source\repos\SampleInterface\SampleInterface\obj\Debug\SampleInterface.pdb
